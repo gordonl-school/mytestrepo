@@ -15,4 +15,7 @@ public class SomeClass {
         System.out.println("bing");
     }
 
+    public void partner2() {
+        System.out.println("hello");
+    }
 }

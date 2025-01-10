@@ -7,7 +7,7 @@ public class Main {
         int firstNum = 12;
         int secondNum = 35;
         System.out.println("Sum: " + firstNum + secondNum);
-        System.out.println("I love the bus");
+        System.out.println("I love the subway");
         System.out.println("bing bong again");
     }
 }

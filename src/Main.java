@@ -8,6 +8,6 @@ public class Main {
         int secondNum = 35;
         System.out.println("Sum: " + firstNum + secondNum);
         System.out.println("I love the bus");
-        System.out.println("bing bong again");
+        System.out.println("Merge Conflict");
     }
 }

@@ -11,4 +11,8 @@ public class SomeClass {
         return "Hello " + name + ". You are " + age + " years old.";
     }
 
+    public void partner1Method() {
+        System.out.println("bing");
+    }
+
 }

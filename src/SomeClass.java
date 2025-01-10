@@ -10,5 +10,7 @@ public class SomeClass {
     public String hello() {
         return "Hello " + name + ". You are " + age + " years old.";
     }
-
+    public void partner2() {
+        System.out.println("hello");
+    }
 }
